@@ -1,4 +1,9 @@
-# Predict_Life_Expectancy
-The model is able to predict the life expectancy of a person considering a number of factors. 
-The data is pre-processed and EDA is performed to make sense of it. 
-I have used Linear Regression to make the prediction.
+# Predict Life Expectancy
+
+The model predicts the life expectancy of a person considering a number of factors like developing/developed country, income, schooling, medical history, alcohol, etc.
+
+I have pre-processed and performed EDA on the data before moving to choosing the model. 
+
+I have used Linear Regression to make the prediction with R-squared value being 0.82., hence I think the model performs reasonably well to make the prediction.
+
+Programming Lnaguage used - Python
